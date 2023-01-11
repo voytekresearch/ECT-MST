@@ -43,7 +43,7 @@ You can get and manage these dependencies using the [Anaconda](https://www.anaco
 
 In addition, this project requires the following dependencies:
 
- - [mne](https://github.com/mne-tools/mne-python) >= 0.23.0
+ - [mne](https://github.com/mne-tools/mne-python) >= 0.24.1
  - [fooof](https://github.com/fooof-tools/fooof) >= 1.0.0
  
 You can install the extra required dependencies by running:
