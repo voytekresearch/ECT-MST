@@ -2,7 +2,7 @@
 
 `ECT-MST` project repository: investigating the roles of aperiodic activity and slow oscillations in electroconvulsive therapy (ECT) and magnetic seizure therapy (MST) as a treatment for Major Depressive Disorder (MDD)
 
-[![Preprint]()]
+[![Preprint](https://www.medrxiv.org/content/10.1101/2023.01.11.23284450v1)]
 
 ## Overview
 
