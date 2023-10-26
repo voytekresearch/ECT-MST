@@ -1,0 +1,33 @@
+﻿subject,filt,Diagnosis,AgeAtTxStart,YrsOfEducation,Sex,x_OfTxsReceived,x_RULUB,x_RUSLP,x_BLSP,AgeAtOnset,EpisodeType,severity,x_OfDepressiveEpisodes,Comorbidity,AxisIIDiagnoses,MedicalConditions
+1,1,'MDD',52,18,'F',16,7,0,9,40,'recurrent','moderate',NaN,"'Alcohol dependence in complete remission, ?social phobia'",'?cluster C traits',"'hypothyroidism, hyperlipidemia'"
+2,1,'MDD (chart)',71,14,'F',11,NaN,NaN,NaN,17,'','',NaN,'','',''
+3,1,'MDD',32,13,'F',8,8,0,0,20,'recurrent','moderate',3,'','',''
+4,1,'MDD',64,18,'F',10,0,0,10,25,'Recurrent','moderate',10,'','',''
+10,1,'MDD',57,20,'F',11,11,0,0,55,"'atypical features, recurrent'",'moderate',2,'','','hypothyroidism'
+13,1,'MDD',72,12,'F',15,15,0,0,60,'recurrent','moderate',NaN,'GAD','none',"'hip and knee replacement, orthostatic hypotension'"
+16,1,'MDD',40,14,'M',14,14,0,0,17,'recurrent','moderate',3,'?OCD vs. obsessive thoughts','none',"'sub-clinical hypothyroidism, sleep apnea'"
+18,1,'MDD',45,16,'M',17,7,0,10,25,'single episode','',1,'none','','hepatitis C'
+19,1,'MDD (chart)',49,17,'M',11,11,0,0,20,'recurrent','',NaN,"'GAD, Social Phobia (chart notes)'",'none',''
+21,1,'MDD',64,16,'F',10,8,0,2,56,'Recurrent','',NaN,'dysthymic disorder','none','none'
+22,1,'MDD',52,NaN,'F',8,8,0,0,28,'Recurrent','Moderate',NaN,'none','none',"'hypertension, hypercholesterolemia'"
+23,1,'Bipolar I',27,17,'F',9,9,0,0,19,'','severe - without psychotic features',NaN,"'GAD, Social Phobia (chart notes)'",'none','none'
+30,1,'MDD',45,16,'F',18,18,0,0,21,'Recurrent','severe - without psychotic features',NaN,"'Dysthymic Disorder, Social Phobia (public speaking)'",'none','none'
+31,1,'',32,15,'F',17,17,0,0,NaN,'','',NaN,'','none','none'
+32,1,'MDD',51,15,'F',NaN,NaN,NaN,NaN,21,'','',6,'','',''
+33,1,'MDD',25,13,'F',18,18,0,0,13,'recurrent','severe - without psychotic features',60,'Panic disorder w/ agoraphobia','none',"'hypothyroidism, arthritis (back)'"
+34,1,'MDD',48,14,'F',20,10,0,9,17,'recurrent','moderate',NaN,'none','none','obesity'
+35,1,"'MDD, current MDE with anxiety features'",66,18,'F',10,1,0,9,62,'recurrent','severe - without psychotic features',2,'none','none','sleep apnea'
+36,1,'',50,18,'F',NaN,NaN,NaN,NaN,NaN,'','',NaN,'','',''
+38,1,'MDD',59,16,'F',15,15,0,0,99,'recurrent','severe - without psychotic features',NaN,'GAD','none','chronic fatigure syndrome'
+39,1,'MDD',24,14,'F',NaN,17,0,0,13,'recurrent','moderate',2,'none','none',"'fibromyalgia, possible polycystic ovarian syndrome'"
+40,1,'bipolar I',37,14,'M',6,NaN,NaN,NaN,20,'recurrent','moderate',NaN,'Social Phobia','none','Muscle Dystrophy'
+42,1,'MDD',27,16,'F',NaN,NaN,NaN,NaN,25,'','',1,'','',''
+44,1,'MDD',28,9,'M',7,NaN,NaN,NaN,16,'','',1,'','',''
+46,1,'Bipolar I',55,16,'F',8,NaN,NaN,NaN,6,'','',9,'','',''
+47,1,'MDD',69,17,'M',10,NaN,NaN,NaN,40,'','',5,'','',''
+48,1,'MDD',44,16,'M',8,NaN,NaN,NaN,16,'','',15,'','',''
+49,1,'Bipolar II',21,13,'F',18,NaN,NaN,NaN,12,'','',3,'','',''
+50,1,'MDD',67,8,'F',10,10,0,0,24,"'Recurrent, with Melancholic features'","'Severe, without psychotic features'",NaN,'none','none','Thyroid Disease'
+53,1,'MDD',60,19,'F',18,8,0,10,49,"'Recurrent, with Melancholic features'","'Severe, without psychotic features'",NaN,'Panic disorder without Agoraphobia','none',''
+54,1,'MDD',19,9,'M',21,8,0,13,14,'Recurrent',"'Severe, without psychotic features'",NaN,'Social Phobia','none',''
+55,1,'MDD',29,12,'M',29,12,0,17,11,'Recurrent',"'Severe, without psychotic features'",NaN,'','',''

@@ -2,7 +2,7 @@
 
 `ECT-MST` project repository: investigating the roles of aperiodic activity and slow oscillations in electroconvulsive therapy (ECT) and magnetic seizure therapy (MST) as a treatment for Major Depressive Disorder (MDD)
 
-[![Preprint](https://www.medrxiv.org/content/10.1101/2023.01.11.23284450v1)]
+[Preprint](https://www.medrxiv.org/content/10.1101/2023.01.11.23284450v1)
 
 ## Overview
 
@@ -37,6 +37,7 @@ Dependencies include 3rd party scientific Python packages:
 - [matplotlib](https://github.com/matplotlib/matplotlib)
 - [statsmodels](https://github.com/statsmodels/statsmodels)
 - [seaborn](https://github.com/mwaskom/seaborn)
+- [cliffs delta](https://github.com/neilernst/cliffsDelta)
 
 
 You can get and manage these dependencies using the [Anaconda](https://www.anaconda.com/distribution/) distribution, which we recommend.
